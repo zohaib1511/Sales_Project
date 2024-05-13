@@ -1,0 +1,7 @@
+.env
+test.ipynb
+test.py
+packages_to_install.txt
+test2.ipynb
+# foldername/
+__pycache__/
